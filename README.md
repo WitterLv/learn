@@ -1,2 +1,2 @@
-# learn
-this is my first repository during learning
+# hello world!
+today,a great programmer typed this in excitement.
